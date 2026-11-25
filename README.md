@@ -4,8 +4,8 @@ I'm a programmer based in Coquitlam, BC, Canada, preparing for university and wo
 
 ## What I'm working on
 - **AI Nurse Platform** — a medical-triage intake web app I designed and built end to end: Python server proxy (API keys server-side only), JavaScript frontend, certainty-gated summaries, bilingual replies, deployed on Google Cloud Run. Source is private (product code); see the [public showcase](https://github.com/Abtin-Abolhosseiny/ai-nurse-showcase). [Live demo](https://ai-nurse-nkmlf45jzq-pd.a.run.app)
-- **Canadian Computing Competition (CCC)** — participant; my solutions with explanations are coming to this profile.
-- **Python ML project** — in progress.
+- **Canadian Computing Competition (CCC)** — Junior Division 2026, Certificate of Distinction (top 25%, University of Waterloo CEMC). My solutions with explanations: [ccc-solutions](https://github.com/Abtin-Abolhosseiny/ccc-solutions)
+- **Python ML project** — house price prediction with a proper ML pipeline: [housing-price-ml](https://github.com/Abtin-Abolhosseiny/housing-price-ml) (in progress)
 
 ## Languages
 - **Python** — ML/AI programming, APIs, server code
@@ -18,3 +18,4 @@ Remote contract work: Python/C++ development, bug fixing, code review, and AI tr
 
 ## Contact
 - GitHub: [@Abtin-Abolhosseiny](https://github.com/Abtin-Abolhosseiny)
+- LinkedIn: [Abtin Abolhosseiny](https://www.linkedin.com/in/abtin-abolhosseiny-785815392/)
